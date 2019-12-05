@@ -25,9 +25,9 @@ footer:
 
 # Author 配置博主信息
 author: 'DMsiast'
-nickname: '数据挖掘爱好者'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/profile.png'
+nickname: ''
+bio: '数据挖掘爱好者'
+avatar: '/assets/img/head.png'
 
 # Search
 search: true
